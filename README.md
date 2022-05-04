@@ -2,8 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Spring and Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- https://chris-z-su.github.io/
+- 📫 https://chris-z-su.github.io/
 
 <!---
 Chris-z-su/Chris-z-su is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
