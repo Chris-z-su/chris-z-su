@@ -9,7 +9,7 @@ Chris-z-su/Chris-z-su is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Chris-z-su's github stats](https://github-readme-stats.vercel.app/api?username=Chris-z-su&theme=prussian))
+![Chris-z-su's github stats](https://github-readme-stats.vercel.app/api?username=Chris-z-su&theme=prussian)
 
 <p align="center"> 
   Visitor count<br>
