@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![Chris-z-su's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-z-su&layout=compact) -->
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+</p> -->
