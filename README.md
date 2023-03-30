@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Chris-z-su
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Spring and Python.
+- 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 https://chris-z-su.github.io/
 
