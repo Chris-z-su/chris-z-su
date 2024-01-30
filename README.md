@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Chris-z-su/Chris-z-su/main/assets/github-contribution-grid-snake.svg)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chris-z-su&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 👋 Hi, I’m @Chris-z-su
